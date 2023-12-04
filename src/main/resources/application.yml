@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+  datasource:
+    hikari:
+      maximum-pool-size: 4
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+logging:
+  level:
+    com.api.bookinside: debug
