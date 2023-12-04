@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,gradle,intellij+all,macos,windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,gradle,intellij+all,macos,windows,visualstudiocode
 
+src/main/generated
+
 ### application-*.yml
 application-*.yml
 
